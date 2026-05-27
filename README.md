@@ -13,7 +13,7 @@ The primary purpose of DVULN is to shorten the "Time-to-Exploit" window, providi
 * **Offensive-First Architecture**: Built by researchers, for researchers, with a focus on actionable intelligence over noise.
 * **Hardened Integration**: Designed to plug directly into fortified security protocols and sovereign cloud environments.
 
----
+--- 
 
 # Key Features
 
